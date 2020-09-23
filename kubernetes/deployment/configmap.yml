@@ -1,0 +1,7 @@
+apiVersion: v1
+data:
+  BASTA__LISTLIMIT: "10"
+kind: ConfigMap
+metadata:
+  name: basta-config
+  namespace: basta-2020
